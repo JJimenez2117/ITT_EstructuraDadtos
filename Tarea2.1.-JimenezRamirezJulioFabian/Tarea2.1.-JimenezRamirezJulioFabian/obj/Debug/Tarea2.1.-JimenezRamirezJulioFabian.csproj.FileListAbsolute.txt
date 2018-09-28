@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\bin\Debug\Tarea2.1.-JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\bin\Debug\Tarea2.1.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\bin\Debug\Tarea2.1.-JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\obj\Debug\Tarea2.1.-JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\obj\Debug\Tarea2.1.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\obj\Debug\Tarea2.1.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\Tarea2.1.-JimenezRamirezJulioFabian\Tarea2.1.-JimenezRamirezJulioFabian\obj\Debug\Tarea2.1.-JimenezRamirezJulioFabian.pdb
