@@ -13,7 +13,7 @@ namespace T2._1R._JimenezRamirezJulioFabian
  
         public int Operacion(int cantidad)
         {
-          if(cantidad==1)
+          if(cantidad<=1)
             {
                 return 1;
             }
