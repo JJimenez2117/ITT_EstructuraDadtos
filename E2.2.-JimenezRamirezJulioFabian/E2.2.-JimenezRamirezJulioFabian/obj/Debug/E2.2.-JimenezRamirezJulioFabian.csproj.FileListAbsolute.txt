@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\obj\Debug\E2.2.-JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\obj\Debug\E2.2.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\bin\Debug\E2.2.-JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\bin\Debug\E2.2.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\bin\Debug\E2.2.-JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\obj\Debug\E2.2.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\E2.2.-JimenezRamirezJulioFabian\E2.2.-JimenezRamirezJulioFabian\obj\Debug\E2.2.-JimenezRamirezJulioFabian.pdb
