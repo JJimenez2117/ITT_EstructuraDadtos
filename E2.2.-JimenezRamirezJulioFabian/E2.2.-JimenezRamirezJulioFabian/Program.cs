@@ -9,19 +9,25 @@ namespace E2._2_JimenezRamirezJulioFabian
 {
     public class Fibonacci
     {
-
+        int inicial = 0, final = 1, suma = 0;
         public int OperacionR(int cantidad)
         {
-            if (cantidad <= 0)
+            Stopwatch Timer = Stopwatch.StartNew();
+            if (cantidad-1 < 0)
             {
                 return 1;
+               
             }
 
             else
             {
-                
-                return OperacionR(cantidad - 2) + OperacionR(cantidad - 1);
-               
+
+                inicial = suma;
+                suma = final;
+                final = inicial + final;
+                Console.Write(inicial);
+                return OperacionR(cantidad-1);
+
 
 
 
@@ -32,14 +38,14 @@ namespace E2._2_JimenezRamirezJulioFabian
         {
             Stopwatch Tiempo = Stopwatch.StartNew();
             int inicial = 0, final = 1, suma = 0, cantidad;
-            Console.Write("Escriba el numero hasta el cual desea realizar el fibonacci ");
+            Console.Write("\nEscriba el numero hasta el cual desea realizar el fibonacci ");
             cantidad = Convert.ToInt32(Console.ReadLine());
             for (int contador = 1; contador <= cantidad; contador++)
             {
                 inicial = suma;
                 suma = final;
                 final = inicial + final;
-                Console.Write(suma + ",");
+                Console.Write(inicial + ",");
             }
             Console.WriteLine("El tiempo que duró la iteracion es:\t" + Tiempo.Elapsed);
 
