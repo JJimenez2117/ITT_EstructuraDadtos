@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\bin\Debug\ExamenU2.-JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\bin\Debug\ExamenU2.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\bin\Debug\ExamenU2.-JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\obj\Debug\ExamenU2.-JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\obj\Debug\ExamenU2.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\obj\Debug\ExamenU2.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\ExamenU2.-JimenezRamirezJulioFabian\ExamenU2.-JimenezRamirezJulioFabian\obj\Debug\ExamenU2.-JimenezRamirezJulioFabian.pdb
