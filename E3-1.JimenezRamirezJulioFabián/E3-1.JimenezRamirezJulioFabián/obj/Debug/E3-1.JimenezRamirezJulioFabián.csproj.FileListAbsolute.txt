@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\bin\Debug\E3-1.JimenezRamirezJulioFabián.exe.config
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\bin\Debug\E3-1.JimenezRamirezJulioFabián.exe
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\bin\Debug\E3-1.JimenezRamirezJulioFabián.pdb
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\obj\Debug\E3-1.JimenezRamirezJulioFabián.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\obj\Debug\E3-1.JimenezRamirezJulioFabián.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\obj\Debug\E3-1.JimenezRamirezJulioFabián.exe
+C:\Users\WORKING\source\repos\E3-1.JimenezRamirezJulioFabián\E3-1.JimenezRamirezJulioFabián\obj\Debug\E3-1.JimenezRamirezJulioFabián.pdb
