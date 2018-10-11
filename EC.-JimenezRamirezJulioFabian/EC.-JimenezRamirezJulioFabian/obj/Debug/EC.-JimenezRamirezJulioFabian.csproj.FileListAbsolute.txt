@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\bin\Debug\EC.-JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\bin\Debug\EC.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\bin\Debug\EC.-JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\obj\Debug\EC.-JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\obj\Debug\EC.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\obj\Debug\EC.-JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\EC.-JimenezRamirezJulioFabian\EC.-JimenezRamirezJulioFabian\obj\Debug\EC.-JimenezRamirezJulioFabian.pdb
