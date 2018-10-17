@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\bin\Debug\E3.2_JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\bin\Debug\E3.2_JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\bin\Debug\E3.2_JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\obj\Debug\E3.2_JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\obj\Debug\E3.2_JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\obj\Debug\E3.2_JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\E3.2_JimenezRamirezJulioFabian\E3.2_JimenezRamirezJulioFabian\obj\Debug\E3.2_JimenezRamirezJulioFabian.pdb
