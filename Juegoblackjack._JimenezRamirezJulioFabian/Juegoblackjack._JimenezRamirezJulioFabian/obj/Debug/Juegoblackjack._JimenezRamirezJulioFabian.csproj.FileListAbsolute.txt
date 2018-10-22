@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\bin\Debug\Juegoblackjack._JimenezRamirezJulioFabian.exe.config
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\bin\Debug\Juegoblackjack._JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\bin\Debug\Juegoblackjack._JimenezRamirezJulioFabian.pdb
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\obj\Debug\Juegoblackjack._JimenezRamirezJulioFabian.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\obj\Debug\Juegoblackjack._JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\obj\Debug\Juegoblackjack._JimenezRamirezJulioFabian.exe
+C:\Users\WORKING\source\repos\Juegoblackjack._JimenezRamirezJulioFabian\Juegoblackjack._JimenezRamirezJulioFabian\obj\Debug\Juegoblackjack._JimenezRamirezJulioFabian.pdb
