@@ -1,0 +1,7 @@
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\bin\Debug\PE._ToDoList.exe.config
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\bin\Debug\PE._ToDoList.exe
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\bin\Debug\PE._ToDoList.pdb
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\obj\Debug\PE._ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\obj\Debug\PE._ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\obj\Debug\PE._ToDoList.exe
+C:\Users\Joey\source\repos\PE._ToDoList\PE._ToDoList\obj\Debug\PE._ToDoList.pdb

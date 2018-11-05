@@ -1,0 +1,7 @@
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\bin\Debug\PE._TorresHanoi_JimenezRamirez.exe.config
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\bin\Debug\PE._TorresHanoi_JimenezRamirez.exe
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\bin\Debug\PE._TorresHanoi_JimenezRamirez.pdb
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\obj\Debug\PE._TorresHanoi_JimenezRamirez.csprojResolveAssemblyReference.cache
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\obj\Debug\PE._TorresHanoi_JimenezRamirez.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\obj\Debug\PE._TorresHanoi_JimenezRamirez.exe
+C:\Users\Joey\source\repos\PE._TorresHanoi_JimenezRamirez\PE._TorresHanoi_JimenezRamirez\obj\Debug\PE._TorresHanoi_JimenezRamirez.pdb
