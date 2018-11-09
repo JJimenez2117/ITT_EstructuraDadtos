@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\bin\Debug\E.4_arboles_JimenezRamirez.exe.config
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\bin\Debug\E.4_arboles_JimenezRamirez.exe
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\bin\Debug\E.4_arboles_JimenezRamirez.pdb
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\obj\Debug\E.4_arboles_JimenezRamirez.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\obj\Debug\E.4_arboles_JimenezRamirez.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\obj\Debug\E.4_arboles_JimenezRamirez.exe
+c:\users\joey\source\repos\E.4_arboles_JimenezRamirez\E.4_arboles_JimenezRamirez\obj\Debug\E.4_arboles_JimenezRamirez.pdb
