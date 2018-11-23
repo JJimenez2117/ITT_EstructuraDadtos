@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\Problema9\Problema9\bin\Debug\Problema9.exe.config
+c:\users\joey\source\repos\Problema9\Problema9\bin\Debug\Problema9.exe
+c:\users\joey\source\repos\Problema9\Problema9\bin\Debug\Problema9.pdb
+c:\users\joey\source\repos\Problema9\Problema9\obj\Debug\Problema9.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\Problema9\Problema9\obj\Debug\Problema9.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\Problema9\Problema9\obj\Debug\Problema9.exe
+c:\users\joey\source\repos\Problema9\Problema9\obj\Debug\Problema9.pdb
