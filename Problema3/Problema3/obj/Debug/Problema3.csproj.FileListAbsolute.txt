@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\Problema3\Problema3\obj\Debug\Problema3.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\Problema3\Problema3\obj\Debug\Problema3.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\Problema3\Problema3\bin\Debug\Problema3.exe.config
+c:\users\joey\source\repos\Problema3\Problema3\bin\Debug\Problema3.exe
+c:\users\joey\source\repos\Problema3\Problema3\bin\Debug\Problema3.pdb
+c:\users\joey\source\repos\Problema3\Problema3\obj\Debug\Problema3.exe
+c:\users\joey\source\repos\Problema3\Problema3\obj\Debug\Problema3.pdb
