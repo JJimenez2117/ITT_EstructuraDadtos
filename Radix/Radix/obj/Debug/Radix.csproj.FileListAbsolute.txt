@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\Radix\Radix\bin\Debug\Radix.exe.config
+c:\users\joey\source\repos\Radix\Radix\bin\Debug\Radix.exe
+c:\users\joey\source\repos\Radix\Radix\bin\Debug\Radix.pdb
+c:\users\joey\source\repos\Radix\Radix\obj\Debug\Radix.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\Radix\Radix\obj\Debug\Radix.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\Radix\Radix\obj\Debug\Radix.exe
+c:\users\joey\source\repos\Radix\Radix\obj\Debug\Radix.pdb
