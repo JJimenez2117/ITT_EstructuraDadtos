@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\bin\Debug\QuickSortExamn.exe.config
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\bin\Debug\QuickSortExamn.exe
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\bin\Debug\QuickSortExamn.pdb
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\obj\Debug\QuickSortExamn.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\obj\Debug\QuickSortExamn.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\obj\Debug\QuickSortExamn.exe
+c:\users\joey\source\repos\QuickSortExamn\QuickSortExamn\obj\Debug\QuickSortExamn.pdb
