@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\obj\Debug\Busqueda BinarioEj2.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\obj\Debug\Busqueda BinarioEj2.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\bin\Debug\Busqueda BinarioEj2.exe.config
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\bin\Debug\Busqueda BinarioEj2.exe
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\bin\Debug\Busqueda BinarioEj2.pdb
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\obj\Debug\Busqueda BinarioEj2.exe
+C:\Users\WORKING\source\repos\Busqueda BinarioEj2\Busqueda BinarioEj2\obj\Debug\Busqueda BinarioEj2.pdb

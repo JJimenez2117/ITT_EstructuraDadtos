@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.exe.config
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.exe
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.pdb
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.exe
+C:\Users\WORKING\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.pdb
