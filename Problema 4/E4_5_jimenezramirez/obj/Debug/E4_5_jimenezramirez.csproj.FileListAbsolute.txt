@@ -1,0 +1,7 @@
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\bin\Debug\E4_5_jimenezramirez.exe.config
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\bin\Debug\E4_5_jimenezramirez.exe
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\bin\Debug\E4_5_jimenezramirez.pdb
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\obj\Debug\E4_5_jimenezramirez.csprojResolveAssemblyReference.cache
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\obj\Debug\E4_5_jimenezramirez.csproj.CoreCompileInputs.cache
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\obj\Debug\E4_5_jimenezramirez.exe
+C:\Users\Joey\source\repos\E4_5_jimenezramirez\E4_5_jimenezramirez\obj\Debug\E4_5_jimenezramirez.pdb

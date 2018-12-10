@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\bin\Debug\Ex3.-JimenezRamirezJulioFabian.exe.config
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\bin\Debug\Ex3.-JimenezRamirezJulioFabian.exe
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\bin\Debug\Ex3.-JimenezRamirezJulioFabian.pdb
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\obj\Debug\Ex3.-JimenezRamirezJulioFabian.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\obj\Debug\Ex3.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\obj\Debug\Ex3.-JimenezRamirezJulioFabian.exe
+c:\users\joey\source\repos\Ex3.-JimenezRamirezJulioFabian\Ex3.-JimenezRamirezJulioFabian\obj\Debug\Ex3.-JimenezRamirezJulioFabian.pdb

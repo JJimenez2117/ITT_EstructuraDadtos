@@ -1,0 +1,7 @@
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\bin\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.exe.config
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\bin\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.exe
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\bin\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.pdb
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\obj\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.csprojResolveAssemblyReference.cache
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\obj\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.csproj.CoreCompileInputs.cache
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\obj\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.exe
+c:\users\joey\source\repos\PE.-Vaquitas.-JimenezRamirezJulioFabian\PE.-Vaquitas.-JimenezRamirezJulioFabian\obj\Debug\PE.-Vaquitas.-JimenezRamirezJulioFabian.pdb
